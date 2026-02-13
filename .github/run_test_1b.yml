@@ -1,4 +1,4 @@
-name: max_subarray_sum unit test
+name: simple calculator unit test
   
 on: [push]  
   
