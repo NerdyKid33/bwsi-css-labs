@@ -13,7 +13,7 @@ def isFloat(val):
     try:
         float(val)
         return True
-    except ValueError:
+    except ValueError: 
         return False
 
 def simple_calculator(operation: str, num1: float, num2: float) -> float:
